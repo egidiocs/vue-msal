@@ -1,4 +1,4 @@
-# vue-msal
+# vue-msal using @azure/msal-browser v2.14.2
 
 #### Wrapper of [MSAL.js](https://github.com/AzureAD/microsoft-authentication-library-for-js#readme) (*Microsoft Authentication Library*) for usage in Vue.
 
